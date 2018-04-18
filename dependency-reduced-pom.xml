@@ -4,7 +4,7 @@
   <groupId>com.wondertek</groupId>
   <artifactId>core-mongodb</artifactId>
   <name>Core-MongoDB</name>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.9.1</version>
   <build>
     <plugins>
       <plugin>
@@ -73,7 +73,9 @@
     </plugins>
   </build>
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <encoding>UTF-8</encoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 </project>
 
