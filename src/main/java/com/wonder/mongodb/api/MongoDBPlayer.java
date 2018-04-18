@@ -114,6 +114,21 @@ public class MongoDBPlayer implements Serializable {
 		}
 		return new Results(fit, fit.iterator(), size);
 	}
+	
+	public Results getData(Duality filter, int skip, int limit) {
+		FindIterable<Document> fit = null;
+		long size = 0;
+		if (filter != null) {
+			fit = currentCollection.find(filter.getInsideDoc()).skip(skip).limit(limit);
+			size = currentCollection.count(filter.getInsideDoc());
+			size = Math.min(size, limit);
+		} else {
+			fit = currentCollection.find().skip(skip).limit(limit);
+			size = currentCollection.count();
+			size = Math.min(size, limit);
+		}
+		return new Results(fit, fit.iterator(), size);
+	}
 
 	public void insertData(Duality duality) {
 		currentCollection.insertOne(duality.getInsideDoc());
