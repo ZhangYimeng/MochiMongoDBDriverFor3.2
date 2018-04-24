@@ -186,7 +186,12 @@ public class MongoDBPlayer implements Serializable {
 	}
 
 	public void deleteData(Duality filter) {
-		currentCollection.deleteMany(filter);
+		if (filter != null) {
+			currentCollection.deleteMany(filter);
+		} else {
+			Duality ugly = new Duality();
+			currentCollection.deleteMany(ugly);
+		}
 	}
 
 	public Results deleteDataSyn(Duality filter) {
