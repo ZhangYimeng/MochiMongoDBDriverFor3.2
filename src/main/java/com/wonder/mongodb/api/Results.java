@@ -120,4 +120,8 @@ public class Results implements Serializable {
 		return size;
 	}
 	
+	public void close() {
+		this.resultsc.close();
+	}
+	
 }

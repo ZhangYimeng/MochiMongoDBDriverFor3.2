@@ -100,6 +100,19 @@ public class MongoDBPlayer implements Serializable {
 		return new Results(fit, fit.iterator(), size);
 	}
 	
+	public Results getData(Duality filter, boolean noCursorTimeout) {
+		FindIterable<Document> fit = null;
+		long size = 0;
+		if (filter != null) {
+			fit = currentCollection.find(filter.getInsideDoc()).noCursorTimeout(noCursorTimeout);
+			size = currentCollection.count(filter.getInsideDoc());
+		} else {
+			fit = currentCollection.find().noCursorTimeout(noCursorTimeout);
+			size = currentCollection.count();
+		}
+		return new Results(fit, fit.iterator(), size);
+	}
+	
 	public Results getData(Duality filter, int limit) {
 		FindIterable<Document> fit = null;
 		long size = 0;
