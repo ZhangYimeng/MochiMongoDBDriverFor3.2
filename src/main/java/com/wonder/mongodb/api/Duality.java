@@ -24,6 +24,10 @@ public class Duality extends Document {
 	public Duality() {
 		doc = new Document();
 	}
+	
+	public Duality(Document doc) {
+		this.doc = doc;
+	}
 
 	/**
 	 * Create a Document instance initialized with the given key/value pair.
