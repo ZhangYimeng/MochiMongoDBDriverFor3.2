@@ -143,6 +143,10 @@ public class Result implements Serializable {
         return doc.get(key);
     }
     
+    public Duality convertToDuality() {
+		return new Duality(doc);
+    }
+    
     public String toString() {
     	return doc.toJson();
     }
