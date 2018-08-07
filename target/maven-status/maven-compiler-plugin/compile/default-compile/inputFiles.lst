@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/interfaces/SimpleScheduledTask.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/FieldToBeSUMIsNotIntegerException.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/DBFindDistinctValueLackFiledException.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/interfaces/MongoManualFunction.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/Result.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/Duality.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/MongoDBConfigWithNoAuth.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/ManualControlExcutor.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/Results.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/NoServerIPException.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/SelectedCollectionWithNoIndexesException.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/MongoDBConfigWithAuth.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/DistinctResult.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/IllegalPortValueException.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/UpdateOperators.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/DistinctResults.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/OperatorProperties.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/foundation/MongoDBConfig.java
+/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/main/java/com/wonder/mongodb/api/exception/CollectionNotExistException.java
+=======
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\exception\FieldToBeSUMIsNotIntegerException.java
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\exception\NoServerIPException.java
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\MongoDBConfigWithNoAuth.java
@@ -19,3 +42,4 @@ C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\foundation\MongoDBConfig.java
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\foundation\ManualControlExcutor.java
 C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\main\java\com\wonder\mongodb\api\exception\SelectedCollectionWithNoIndexesException.java
+>>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
