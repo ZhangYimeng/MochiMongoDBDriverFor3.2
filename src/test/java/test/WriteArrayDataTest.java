@@ -16,6 +16,7 @@ import com.wonder.mongodb.api.exception.SelectedCollectionWithNoIndexesException
 
 public class WriteArrayDataTest {
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws NoServerIPException, IllegalPortValueException, SelectedCollectionWithNoIndexesException {
 		MongoDBConfigWithAuth confTrainedWordVectorMapPlayer = new MongoDBConfigWithAuth("127.0.0.1", 27017, "mochi",
                 "gotohellmyevilex", new String[]{"word"},
