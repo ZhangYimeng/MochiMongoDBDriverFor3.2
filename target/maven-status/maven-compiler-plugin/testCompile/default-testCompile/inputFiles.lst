@@ -1,23 +1,11 @@
-<<<<<<< HEAD
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/CanNotWriteException.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/DataInsertTest.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/InsertSpeedTest.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/FindAndUpdateTest.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/JSONTest.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/NotAFileException.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/UniqueTest.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/MochiTxtFile.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/CreateIndex.java
-/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/src/test/java/test/DataTest.java
-=======
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\DataTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\NotAFileException.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\InsertSpeedTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\JSONTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\UniqueTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\DataInsertTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\CreateIndex.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\FindAndUpdateTest.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\MochiTxtFile.java
-C:\Users\Mochi\git\MochiMongoDBDriverFor3.2\src\test\java\test\CanNotWriteException.java
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\CanNotWriteException.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\WriteArrayDataTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\InsertSpeedTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\JSONTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\MochiTxtFile.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\UniqueTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\CreateIndex.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\NotAFileException.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\DataInsertTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\DataTest.java
+C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2\src\test\java\test\FindAndUpdateTest.java

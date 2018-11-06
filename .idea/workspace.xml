@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb9b6f2-9f12-490a-b1b1-3149a9cf5ea3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-mongodb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.wondertek/core-mongodb/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.wondertek/core-mongodb/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResult.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults$ResultSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults$ResultSet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults.class" afterDir="false" />
@@ -37,6 +25,17 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/UpdateOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/UpdateOperators.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/MongoManualFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/MongoManualFunction.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/SimpleScheduledTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/SimpleScheduledTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataInsertTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataInsertTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.FindAndUpdateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.FindAndUpdateTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.JSONTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.JSONTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.UniqueTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.UniqueTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.DataInsertTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.DataInsertTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.DataTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.DataTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.JSONTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.JSONTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/CanNotWriteException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CanNotWriteException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/CreateIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CreateIndex.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/DataInsertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/DataInsertTest.class" afterDir="false" />
@@ -65,12 +64,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -87,16 +88,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="182" selection-start-line="182" selection-end-line="182" />
+            <state relative-caret-position="844">
+              <caret line="201" column="42" lean-forward="true" selection-start-line="201" selection-start-column="42" selection-end-line="201" selection-end-column="42" />
               <folding>
                 <element signature="e#7071#7072#0" expanded="true" />
+                <element signature="e#7137#7138#0" expanded="true" />
                 <element signature="e#7363#7364#0" expanded="true" />
                 <element signature="e#7423#7424#0" expanded="true" />
+                <element signature="e#6360#6361#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -139,41 +151,6 @@
               <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
               <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="foundation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495482642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495909246" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -212,12 +189,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541494919127</updated>
-      <workItem from="1541494922721" duration="560000" />
+      <workItem from="1541494922721" duration="986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="560000" />
+    <option name="totallyTimeSpent" value="986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -261,13 +238,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="844">
+          <caret line="201" column="42" lean-forward="true" selection-start-line="201" selection-start-column="42" selection-end-line="201" selection-end-column="42" />
           <folding>
             <element signature="e#7071#7072#0" expanded="true" />
+            <element signature="e#7137#7138#0" expanded="true" />
             <element signature="e#7363#7364#0" expanded="true" />
             <element signature="e#7423#7424#0" expanded="true" />
+            <element signature="e#6360#6361#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>

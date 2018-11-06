@@ -2,14 +2,10 @@
 <testsuite tests="0" failures="0" name="test.FindAndUpdateTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_172\bin"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
     <property name="java.vm.version" value="25.172-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-<<<<<<< HEAD
-    <property name="maven.multiModuleProjectDirectory" value="/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2"/>
-=======
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Mochi\git\MochiMongoDBDriverFor3.2"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -20,101 +16,49 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-<<<<<<< HEAD
-    <property name="user.dir" value="/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2"/>
-    <property name="java.runtime.version" value="1.8.0_112-b16"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/endorsed"/>
-    <property name="os.arch" value="x86_64"/>
-    <property name="java.io.tmpdir" value="/var/folders/gs/cn52sy650jj49txzzlsyv9nc0000gn/T/"/>
-    <property name="line.separator" value="
-=======
-    <property name="user.dir" value="C:\Users\Mochi\git\MochiMongoDBDriverFor3.2"/>
+    <property name="user.dir" value="C:\Users\Mochi\Documents\GitHub\MochiMongoDBDriverFor3.2"/>
     <property name="java.runtime.version" value="1.8.0_172-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_172\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\Mochi\AppData\Local\Temp\"/>
     <property name="line.separator" value="
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-<<<<<<< HEAD
-    <property name="https.proxyHost" value="127.0.0.1"/>
-    <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/zhangyimeng/Documents/workspace20180301/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf524716383095575132.tmp"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/Users/zhangyimeng/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
-    <property name="http.proxyPort" value="62266"/>
-=======
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Mochi\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5555782281495869093.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Mochi\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4195992546902111087.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_172/bin/server;C:/Program Files/Java/jre1.8.0_172/bin;C:/Program Files/Java/jre1.8.0_172/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files\Java\jdk1.8.0_172\jre\bin;C:\apache-maven-3.5.3\bin;C:\mongodb-3.2.12\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin;C:\Users\Mochi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Mochi\Desktop\Cover;;."/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_172/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_172/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_172/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files\Java\jdk1.8.0_172\jre\bin;C:\mongodb-3.2.12\bin;C:\apache-maven-3.5.3\bin;C:\Users\Mochi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Mochi\AppData\Local\GitHubDesktop\bin;C:\Windows\System32;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-<<<<<<< HEAD
-    <property name="os.version" value="10.13.2"/>
-    <property name="user.home" value="/Users/zhangyimeng"/>
-=======
     <property name="os.version" value="10.0"/>
     <property name="user.home" value="C:\Users\Mochi"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="UTF-8"/>
-<<<<<<< HEAD
-    <property name="user.name" value="zhangyimeng"/>
-    <property name="java.class.path" value="/Users/zhangyimeng/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135/jars/plexus-classworlds-2.5.2.jar"/>
-=======
     <property name="user.name" value="Mochi"/>
     <property name="java.class.path" value="C:\apache-maven-3.5.3\boot\plexus-classworlds-2.5.2.jar"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_172"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="zh"/>
-<<<<<<< HEAD
-    <property name="user.language.format" value="en"/>
-    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
-=======
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
     <property name="java.vm.info" value="mixed mode"/>
-<<<<<<< HEAD
-    <property name="java.version" value="1.8.0_112"/>
-    <property name="java.ext.dirs" value="/Users/zhangyimeng/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
-    <property name="http.proxyHost" value="127.0.0.1"/>
-    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes"/>
-=======
     <property name="java.version" value="1.8.0_172"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_172\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_172\lib\resources.jar;C:\Program Files\Java\jre1.8.0_172\lib\rt.jar;C:\Program Files\Java\jre1.8.0_172\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_172\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_172\lib\jce.jar;C:\Program Files\Java\jre1.8.0_172\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_172\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_172\classes"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-<<<<<<< HEAD
-    <property name="maven.home" value="/Users/zhangyimeng/git/MochiMongoDBDriverFor3.2/EMBEDDED"/>
-    <property name="file.separator" value="/"/>
-=======
     <property name="maven.home" value="C:\apache-maven-3.5.3"/>
     <property name="file.separator" value="\"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
-<<<<<<< HEAD
-    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
-    <property name="https.proxyPort" value="62266"/>
-    <property name="sun.cpu.isalist" value=""/>
-=======
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
->>>>>>> branch 'master' of https://github.com/ZhangYimeng/MochiMongoDBDriverFor3.2.git
   </properties>
 </testsuite>
