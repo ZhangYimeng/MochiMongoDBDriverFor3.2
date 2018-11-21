@@ -263,6 +263,11 @@ public class MongoDBPlayer implements Serializable {
         }
     }
 
+    public boolean contains(Duality filter) {
+        long count = currentCollection.count(filter);
+        return count > 0 ? true : false;
+    }
+
     public static void main(String[] args) throws NoServerIPException, IllegalPortValueException,
             FieldToBeSUMIsNotIntegerException, SelectedCollectionWithNoIndexesException {
 //		ServerAddress server = new ServerAddress("127.0.0.1", 27017);
@@ -291,14 +296,15 @@ public class MongoDBPlayer implements Serializable {
 //			System.out.println(it.next());
 //		}
 //		mc.close();
-        MongoDBConfigWithAuth conf = new MongoDBConfigWithAuth("127.0.0.1", 27017, "mochi", "gotohellmyevilex", null, null);
+        MongoDBConfigWithAuth conf = new MongoDBConfigWithAuth("127.0.0.1", 27017, "mochi", "gotohellmyevilex", new String[] {"aaa"}, null);
         MongoDBPlayer db = new MongoDBPlayer(conf, "TestData", "TestCollection");
         Duality data = new Duality();
-        data.append("aaa", 1);
+        data.append("aaa", "qwe");
         db.insertData(data);
         Duality filter = new Duality();
-//		filter.append("aaa", 1);
+        filter.append("aaa", "asd");
         System.out.println(db.getCount(filter));
+        System.out.println(db.contains(filter));
     }
 
 }
