@@ -3,48 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6cb9b6f2-9f12-490a-b1b1-3149a9cf5ea3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.wondertek/core-mongodb/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.wondertek/core-mongodb/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults$ResultSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults$ResultSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/DistinctResults.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Duality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Duality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBConfigWithAuth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBConfigWithAuth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBConfigWithNoAuth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBConfigWithNoAuth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/MongoDBPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/Results.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/CollectionNotExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/CollectionNotExistException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/DBFindDistinctValueLackFiledException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/DBFindDistinctValueLackFiledException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/FieldToBeSUMIsNotIntegerException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/FieldToBeSUMIsNotIntegerException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/IllegalPortValueException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/IllegalPortValueException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/NoServerIPException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/NoServerIPException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/SelectedCollectionWithNoIndexesException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/exception/SelectedCollectionWithNoIndexesException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/ManualControlExcutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/ManualControlExcutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/MongoDBConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/MongoDBConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/OperatorProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/OperatorProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/QueryOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/QueryOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/UpdateOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/UpdateOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/MongoManualFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/MongoManualFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/SimpleScheduledTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wonder/mongodb/api/foundation/interfaces/SimpleScheduledTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataInsertTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataInsertTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.DataTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.FindAndUpdateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.FindAndUpdateTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.JSONTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.JSONTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.UniqueTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-test.UniqueTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.UniqueTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/test.UniqueTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CanNotWriteException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CanNotWriteException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/CreateIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/CreateIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/DataInsertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/DataInsertTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/DataTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/FindAndUpdateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/FindAndUpdateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/InsertSpeedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/InsertSpeedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/JSONTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/JSONTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/MochiTxtFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/MochiTxtFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/NotAFileException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/NotAFileException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/UniqueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/UniqueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,53 +12,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1532689175">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="178" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="178" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1181">
-              <caret line="202" column="36" lean-forward="true" selection-start-line="202" selection-start-column="36" selection-end-line="202" selection-end-column="36" />
+            <state relative-caret-position="625">
+              <caret line="151" column="40" lean-forward="true" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
               <folding>
                 <element signature="e#7071#7072#0" expanded="true" />
                 <element signature="e#7137#7138#0" expanded="true" />
                 <element signature="e#7750#7751#0" expanded="true" />
                 <element signature="e#7819#7820#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/Duality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -113,14 +56,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -141,45 +79,18 @@
               <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
               <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="core-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MochiMongoDBDriverFor3.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542792234034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551319998519" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,23 +139,25 @@
       <updated>1541494919127</updated>
       <workItem from="1541494922721" duration="1678000" />
       <workItem from="1542789876368" duration="1747000" />
+      <workItem from="1551260263502" duration="1212000" />
+      <workItem from="1551317767224" duration="2229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3425000" />
+    <option name="totallyTimeSpent" value="6866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
@@ -256,6 +169,8 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -265,13 +180,11 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -281,10 +194,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/Duality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/foundation/QueryOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wonder/mongodb/api/MongoDBPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1181">
-          <caret line="202" column="36" lean-forward="true" selection-start-line="202" selection-start-column="36" selection-end-line="202" selection-end-column="36" />
+        <state relative-caret-position="625">
+          <caret line="151" column="40" lean-forward="true" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
           <folding>
             <element signature="e#7071#7072#0" expanded="true" />
             <element signature="e#7137#7138#0" expanded="true" />
